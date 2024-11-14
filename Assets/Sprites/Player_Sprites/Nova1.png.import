@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cmx6xbmr422q"
-path="res://.godot/imported/placeholder.jpg-255f0e4d7a161f3bb9f6861c476eb725.ctex"
+uid="uid://d2jj38t2wwt6s"
+path="res://.godot/imported/Nova1.png-443b73bffc65e7e69909f23f89686d4b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/placeholder.jpg"
-dest_files=["res://.godot/imported/placeholder.jpg-255f0e4d7a161f3bb9f6861c476eb725.ctex"]
+source_file="res://Assets/Sprites/Player_Sprites/Nova1.png"
+dest_files=["res://.godot/imported/Nova1.png-443b73bffc65e7e69909f23f89686d4b.ctex"]
 
 [params]
 
